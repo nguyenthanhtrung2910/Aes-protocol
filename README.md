@@ -6,5 +6,6 @@ https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D1%88%D0%B8%D1%84%
 
 Алгоритм PKCS#7 padding: https://www.ibm.com/docs/en/zos/2.4.0?topic=rules-pkcs-padding-method
 
-Файл aes.py реализирует class AES c функциями шифрования и дешифрования в разных режимах
+Файл aes.py реализирует class AES c функциями шифрования и дешифрования в разных режимах.
+
 Запустите файл test.ipynb в Google Colab. Описываю что тестируется
